@@ -1,2 +1,1 @@
-# Token-Economy-Cryptoeconomics
-
+# TokenEconomy-Cryptoeconomics
